@@ -46,13 +46,13 @@ Follow these steps to run the JavaScript programs on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/AvikMaiti/JS_programs.git
 
 2. **Navigate to the Program Directory:**
     ```bash
-    cd your-repository
+    cd JS_programs
 
 3. **Run a JavaScript Program:**
     ```bash
-    # Example command for running a JavaScript program
-    node program-name.js
+    # Example command for running a JavaScript program named Hello_World
+    node Hello_World.js
